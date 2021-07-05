@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Hp/Downloads/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hp/Downloads/hibernate-core-4.1.6.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate library/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate library/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate library/hibernate-search-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate library/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate library/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Hibernate library/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
